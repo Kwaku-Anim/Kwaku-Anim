@@ -21,7 +21,9 @@ I build low-cost, micrometer-precision structural health monitoring (SHM) system
 
 ![SHM System](https://kwakuanimasare.surge.sh/assets/images/miss-afia.jpg)
 
-Developed a low-cost structural monitoring system using ESP32-CAM and computer vision to measure displacement and strain with micrometer-level sensitivity.
+*Experimental setup of the MISS-AFIA system for micro-displacement and strain monitoring.*
+
+Developed a low-cost, vision-based structural health monitoring system using ESP32-CAM and computer vision to measure displacement and strain with micrometer-level sensitivity.
 
 ### Key Contributions
 - Image-based displacement tracking using computer vision  
