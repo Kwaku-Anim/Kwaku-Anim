@@ -1,6 +1,6 @@
 # Kwaku Anim Asare
 
-Structural Engineer | Vision-Based Structural Health Monitoring | Embedded Systems
+Structural Engineering Researcher | Vision-Based SHM | Embedded Systems & Computer Vision
 
 I build low-cost, micrometer-precision structural health monitoring (SHM) systems using embedded sensing, computer vision, and real-time data analysis. My work focuses on scalable monitoring solutions for real-world infrastructure.
 
@@ -15,7 +15,11 @@ I build low-cost, micrometer-precision structural health monitoring (SHM) system
 
 ---
 
-## Featured Project — Vision-Based SHM System
+## Featured Project — Low-Cost Vision-Based Structural Health Monitoring System
+
+## System Overview
+
+![SHM System](https://kwakuanimasare.surge.sh/assets/your-image-name.jpg)
 
 Developed a low-cost structural monitoring system using ESP32-CAM and computer vision to measure displacement and strain with micrometer-level sensitivity.
 
