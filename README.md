@@ -19,7 +19,7 @@ I build low-cost, micrometer-precision structural health monitoring (SHM) system
 
 ## System Overview
 
-![SHM System](https://kwakuanimasare.surge.sh/assets/your-image-name.jpg)
+![SHM System](https://kwakuanimasare.surge.sh/assets/images/miss-afia.jpg)
 
 Developed a low-cost structural monitoring system using ESP32-CAM and computer vision to measure displacement and strain with micrometer-level sensitivity.
 
