@@ -2,7 +2,7 @@
 
 Structural Engineering Researcher | Vision-Based SHM | Embedded Systems & Computer Vision
 
-I develop low-cost, high-precision structural health monitoring (SHM) systems using embedded sensing, computer vision, and real-time data analysis. My work focuses on vision-based displacement and strain measurement for scalable infrastructure monitoring.
+Developed a low-cost, high-precision vision-based structural health monitoring system using ESP32-CAM and computer vision for displacement and strain measurement.
 ---
 
 ## Research Focus
@@ -31,7 +31,10 @@ This system integrates embedded imaging, computer vision, and real-time processi
 *Experimental setup of the MISS-AFIA system for micrometer-level displacement and strain monitoring.*
 
 Developed a low-cost, vision-based structural health monitoring system using ESP32-CAM and computer vision to measure displacement and strain.
-**Key Result:** Achieved micrometer-level displacement tracking (~1–50 µm) using low-cost embedded hardware.
+
+**Key Result**
+- Achieved micrometer-level displacement tracking (~1–50 µm)
+- Implemented using low-cost embedded hardware (ESP32-CAM)
 
 ### Key Contributions
 - Image-based displacement tracking using computer vision  
@@ -40,20 +43,19 @@ Developed a low-cost, vision-based structural health monitoring system using ESP
 - Experimental validation using LVDT reference system  
 
 ### Why it Matters
-Traditional SHM systems are expensive and difficult to scale. This project demonstrates a practical, low-cost alternative for infrastructure monitoring.
+Traditional structural health monitoring systems are expensive and difficult to scale. This work demonstrates a practical, low-cost alternative capable of achieving high-resolution measurements using embedded vision-based sensing.
 
 ---
 
-## Research Outputs
-
+## ## 📄 Research Outputs (with DOI)
 - **Wind Turbine Structural Health Monitoring**  
-  DOI: https://doi.org/10.5281/zenodo.19052062  
+  DOI: https://doi.org/10.5281/zenodo.19052062
 
 - **OpenSees Structural Modeling Study**  
-  DOI: https://doi.org/10.5281/zenodo.19052280  
+  DOI: https://doi.org/10.5281/zenodo.19052280
 
 - **CNN Damage Detection for Cultural Heritage Structures**  
-  DOI: https://doi.org/10.5281/zenodo.19052509  
+  DOI: https://doi.org/10.5281/zenodo.19052509
 
 ---
 
@@ -77,4 +79,4 @@ Traditional SHM systems are expensive and difficult to scale. This project demon
 
 📧 kwakuanimasare@yahoo.com  
 
-I am actively seeking PhD opportunities in Structural Health Monitoring, smart infrastructure, and vision-based sensing systems.
+🎯 Open to PhD opportunities and research collaborations in AI-driven structural health monitoring and intelligent infrastructure.
