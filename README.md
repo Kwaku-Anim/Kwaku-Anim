@@ -24,11 +24,14 @@ I develop low-cost, high-precision structural health monitoring (SHM) systems us
 
 ## System Overview
 
+This system integrates embedded imaging, computer vision, and real-time processing for structural displacement and strain measurement.
+
 ![SHM System](https://kwakuanimasare.surge.sh/assets/images/miss-afia.jpg)
 
-*Experimental setup of the MISS-AFIA system for micro-displacement and strain monitoring.*
+*Experimental setup of the MISS-AFIA system for micrometer-level displacement and strain monitoring.*
 
-Developed a low-cost, vision-based structural health monitoring system using ESP32-CAM and computer vision to measure displacement and strain with micrometer-level sensitivity.
+Developed a low-cost, vision-based structural health monitoring system using ESP32-CAM and computer vision to measure displacement and strain.
+**Key Result:** Achieved micrometer-level displacement tracking (~1–50 µm) using low-cost embedded hardware.
 
 ### Key Contributions
 - Image-based displacement tracking using computer vision  
