@@ -2,8 +2,7 @@
 
 Structural Engineering Researcher | Vision-Based SHM | Embedded Systems & Computer Vision
 
-I build low-cost, micrometer-precision structural health monitoring (SHM) systems using embedded sensing, computer vision, and real-time data analysis. My work focuses on scalable monitoring solutions for real-world infrastructure.
-
+I develop low-cost, high-precision structural health monitoring (SHM) systems using embedded sensing, computer vision, and real-time data analysis. My work focuses on vision-based displacement and strain measurement for scalable infrastructure monitoring.
 ---
 
 ## Research Focus
@@ -15,7 +14,13 @@ I build low-cost, micrometer-precision structural health monitoring (SHM) system
 
 ---
 
-## Featured Project — Low-Cost Vision-Based Structural Health Monitoring System
+## 🔬 Featured Projects
+
+- Vision-Based Structural Health Monitoring System (ESP32-CAM)
+- Nonlinear Seismic Analysis using OpenSeesPy
+- Deep Learning-Based Crack Detection for Structural Inspection
+
+## 📌 Project: Vision-Based Structural Health Monitoring System
 
 ## System Overview
 
